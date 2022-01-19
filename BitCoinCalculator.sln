@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCoinCalculator", "BitCoinCalculator\BitCoinCalculator.csproj", "{557EACF8-0FFA-445B-964C-AF827E622398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557EACF8-0FFA-445B-964C-AF827E622398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557EACF8-0FFA-445B-964C-AF827E622398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557EACF8-0FFA-445B-964C-AF827E622398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557EACF8-0FFA-445B-964C-AF827E622398}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9FDD0F-0153-40D9-8710-9055AC79D6F3}
+	EndGlobalSection
+EndGlobal
